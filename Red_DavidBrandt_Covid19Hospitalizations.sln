@@ -5,19 +5,22 @@ VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataFiles", "DataFiles", "{D3B13EDD-C40B-403F-967C-651CB2233405}"
 	ProjectSection(SolutionItems) = preProject
+		DataFiles\Bing-COVID19-Data_20200808.csv = DataFiles\Bing-COVID19-Data_20200808.csv
 		DataFiles\Bing-COVID19-Data_20200808.xlsx = DataFiles\Bing-COVID19-Data_20200808.xlsx
+		DataFiles\COVID_Tracking_Project_State_Data_20200808.csv = DataFiles\COVID_Tracking_Project_State_Data_20200808.csv
 		DataFiles\COVID_Tracking_Project_State_Data_20200808.xlsx = DataFiles\COVID_Tracking_Project_State_Data_20200808.xlsx
+		DataFiles\USA_States_20200808.csv = DataFiles\USA_States_20200808.csv
 		DataFiles\USA_States_20200808.xlsx = DataFiles\USA_States_20200808.xlsx
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{F017AB64-67DC-4917-B09E-E2B43F153C03}"
 	ProjectSection(SolutionItems) = preProject
 		Documents\BIDD230_Final_Assignment.docx = Documents\BIDD230_Final_Assignment.docx
-		Documents\BIDD230_Final_Contents.docx = Documents\BIDD230_Final_Contents.docx
 		Documents\BIDD230_Final_DataSources.docx = Documents\BIDD230_Final_DataSources.docx
 		Documents\BIDD230_Final_DataSurvey.xlsx = Documents\BIDD230_Final_DataSurvey.xlsx
-		Documents\BIDD230_Final_Deliverable_01_ RedTeam.xlsx = Documents\BIDD230_Final_Deliverable_01_ RedTeam.xlsx
 		Documents\BIDD230_Final_Groups.xlsx = Documents\BIDD230_Final_Groups.xlsx
+		Documents\BIDD230_Final_RedTeam_Deliverable_01.xlsx = Documents\BIDD230_Final_RedTeam_Deliverable_01.xlsx
+		Documents\BIDD230_Final_RedTeam_Deliverable_02.vsdx = Documents\BIDD230_Final_RedTeam_Deliverable_02.vsdx
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PowerBI", "PowerBI", "{B92E0543-C586-41FC-B54C-5F671FB4E244}"
@@ -38,6 +41,15 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLScripts", "SQLScripts", 
 		SQLScripts\BIDD230_Final_CreateDataStaging.sql = SQLScripts\BIDD230_Final_CreateDataStaging.sql
 		SQLScripts\BIDD230_Final_CreateDataWarehouse.sql = SQLScripts\BIDD230_Final_CreateDataWarehouse.sql
 		SQLScripts\BIDD230_Final_LoadDataWarehouse.sql = SQLScripts\BIDD230_Final_LoadDataWarehouse.sql
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{0D951DCA-8A83-4E48-8D4E-EC3672FE98A6}"
+	ProjectSection(SolutionItems) = preProject
+		Images\AzureSQLDatabase.png = Images\AzureSQLDatabase.png
+		Images\CSVFile.png = Images\CSVFile.png
+		Images\PowerBI-Logo.png = Images\PowerBI-Logo.png
+		Images\SQLDatabase.png = Images\SQLDatabase.png
+		Images\SQLScript.png = Images\SQLScript.png
 	EndProjectSection
 EndProject
 Global
