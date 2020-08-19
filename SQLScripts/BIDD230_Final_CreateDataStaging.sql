@@ -15,7 +15,7 @@ Course: UW BIDD 230 - Data Management, Maintenance, & Reporting
 Assignment: Final - Red Team
 Date: August 11, 2020
 Description: Create the data staging database.
- 
+
 */
 
 /************************************************************** 
