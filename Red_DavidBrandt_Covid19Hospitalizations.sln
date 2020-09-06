@@ -25,6 +25,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PowerBI", "PowerBI", "{B92E0543-C586-41FC-B54C-5F671FB4E244}"
+	ProjectSection(SolutionItems) = preProject
+		PowerBI\BIDD230_Final_RedTeam_Reports.pbix = PowerBI\BIDD230_Final_RedTeam_Reports.pbix
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SQLBackups", "SQLBackups", "{1F8566D6-87D7-4B58-A7D2-B35CFB07F0F4}"
 	ProjectSection(SolutionItems) = preProject
