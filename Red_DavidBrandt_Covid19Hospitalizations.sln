@@ -19,8 +19,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{
 		Documents\BIDD230_Final_DataSources.docx = Documents\BIDD230_Final_DataSources.docx
 		Documents\BIDD230_Final_DataSurvey.xlsx = Documents\BIDD230_Final_DataSurvey.xlsx
 		Documents\BIDD230_Final_Groups.xlsx = Documents\BIDD230_Final_Groups.xlsx
+		Documents\BIDD230_Final_Presentation.pptx = Documents\BIDD230_Final_Presentation.pptx
 		Documents\BIDD230_Final_RedTeam_Deliverable_01.xlsx = Documents\BIDD230_Final_RedTeam_Deliverable_01.xlsx
 		Documents\BIDD230_Final_RedTeam_Deliverable_02.docx = Documents\BIDD230_Final_RedTeam_Deliverable_02.docx
+		Documents\BIDD230_Final_RedTeam_Deliverable_02.pdf = Documents\BIDD230_Final_RedTeam_Deliverable_02.pdf
 		Documents\BIDD230_Final_RedTeam_Deliverable_02.vsdx = Documents\BIDD230_Final_RedTeam_Deliverable_02.vsdx
 	EndProjectSection
 EndProject
